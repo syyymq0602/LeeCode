@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\LeeCode\TwoSum\TwoSum\bin\Debug\net472\TwoSum.exe.config
+C:\Users\tpl\Desktop\LeeCode\TwoSum\TwoSum\bin\Debug\net472\TwoSum.exe
+C:\Users\tpl\Desktop\LeeCode\TwoSum\TwoSum\bin\Debug\net472\TwoSum.pdb
+C:\Users\tpl\Desktop\LeeCode\TwoSum\TwoSum\obj\Debug\net472\TwoSum.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\LeeCode\TwoSum\TwoSum\obj\Debug\net472\TwoSum.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\LeeCode\TwoSum\TwoSum\obj\Debug\net472\TwoSum.AssemblyInfo.cs
+C:\Users\tpl\Desktop\LeeCode\TwoSum\TwoSum\obj\Debug\net472\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\LeeCode\TwoSum\TwoSum\obj\Debug\net472\TwoSum.exe
+C:\Users\tpl\Desktop\LeeCode\TwoSum\TwoSum\obj\Debug\net472\TwoSum.pdb

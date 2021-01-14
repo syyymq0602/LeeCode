@@ -1,0 +1,2 @@
+# LeeCode
+Codes for algorithm

@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\LeeCode\TwoSum\FindMedianSortedArrays\bin\Debug\net472\FindMedianSortedArrays.exe.config
+C:\Users\tpl\Desktop\LeeCode\TwoSum\FindMedianSortedArrays\bin\Debug\net472\FindMedianSortedArrays.exe
+C:\Users\tpl\Desktop\LeeCode\TwoSum\FindMedianSortedArrays\bin\Debug\net472\FindMedianSortedArrays.pdb
+C:\Users\tpl\Desktop\LeeCode\TwoSum\FindMedianSortedArrays\obj\Debug\net472\FindMedianSortedArrays.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\LeeCode\TwoSum\FindMedianSortedArrays\obj\Debug\net472\FindMedianSortedArrays.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\LeeCode\TwoSum\FindMedianSortedArrays\obj\Debug\net472\FindMedianSortedArrays.AssemblyInfo.cs
+C:\Users\tpl\Desktop\LeeCode\TwoSum\FindMedianSortedArrays\obj\Debug\net472\FindMedianSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\LeeCode\TwoSum\FindMedianSortedArrays\obj\Debug\net472\FindMedianSortedArrays.exe
+C:\Users\tpl\Desktop\LeeCode\TwoSum\FindMedianSortedArrays\obj\Debug\net472\FindMedianSortedArrays.pdb

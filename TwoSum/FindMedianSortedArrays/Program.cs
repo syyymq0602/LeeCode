@@ -18,8 +18,10 @@ namespace FindMedianSortedArrays
             int Len2 = nums2.Length;
             double mid;
             int[] res = new int[Len1+Len2];
+            // 拼接数组
             nums1.CopyTo(res,0);
             nums2.CopyTo(res,Len1);
+            // 排序
             Array.Sort(res);
             if ((Len1 + Len2) % 2 == 0)
             {

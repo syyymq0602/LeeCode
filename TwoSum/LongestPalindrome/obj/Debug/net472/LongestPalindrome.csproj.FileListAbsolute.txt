@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\LeeCode\TwoSum\LongestPalindrome\bin\Debug\net472\LongestPalindrome.exe.config
+C:\Users\tpl\Desktop\LeeCode\TwoSum\LongestPalindrome\bin\Debug\net472\LongestPalindrome.exe
+C:\Users\tpl\Desktop\LeeCode\TwoSum\LongestPalindrome\bin\Debug\net472\LongestPalindrome.pdb
+C:\Users\tpl\Desktop\LeeCode\TwoSum\LongestPalindrome\obj\Debug\net472\LongestPalindrome.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\LeeCode\TwoSum\LongestPalindrome\obj\Debug\net472\LongestPalindrome.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\LeeCode\TwoSum\LongestPalindrome\obj\Debug\net472\LongestPalindrome.AssemblyInfo.cs
+C:\Users\tpl\Desktop\LeeCode\TwoSum\LongestPalindrome\obj\Debug\net472\LongestPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\LeeCode\TwoSum\LongestPalindrome\obj\Debug\net472\LongestPalindrome.exe
+C:\Users\tpl\Desktop\LeeCode\TwoSum\LongestPalindrome\obj\Debug\net472\LongestPalindrome.pdb

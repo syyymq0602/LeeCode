@@ -1,0 +1,9 @@
+C:\Users\PPG\Desktop\b\LeeCode\TwoSum\Convert\bin\Debug\net472\Convert.exe.config
+C:\Users\PPG\Desktop\b\LeeCode\TwoSum\Convert\bin\Debug\net472\Convert.exe
+C:\Users\PPG\Desktop\b\LeeCode\TwoSum\Convert\bin\Debug\net472\Convert.pdb
+C:\Users\PPG\Desktop\b\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.csprojAssemblyReference.cache
+C:\Users\PPG\Desktop\b\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.AssemblyInfoInputs.cache
+C:\Users\PPG\Desktop\b\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.AssemblyInfo.cs
+C:\Users\PPG\Desktop\b\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.csproj.CoreCompileInputs.cache
+C:\Users\PPG\Desktop\b\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.exe
+C:\Users\PPG\Desktop\b\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.pdb

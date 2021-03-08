@@ -13,15 +13,32 @@ namespace Convert
 
         private static string Convert(string s, int numRows)
         {
-            char[][] chars = new char[numRows][];
-            char[] str = s.ToCharArray();
-            int j = -1;
-            for (int i = 0; i < s.Length; i++)
+            if (s.Length <= 1)
+                return s;
+            int step = 2 * numRows - 2;
+            int index = 0;
+            int n = s.Length;
+            int add = 0;
+            string ret = "";
+            for(int i=0;i<numRows;i++)
             {
-                if (j == 0 || j == 4)
-                    j = -j;
+                index = i;
+                add = 2 * i;
+                while(index < n)
+                {
+                    ret += s[index];
+                    add = step - add;
+                    if(i==0 || i ==numRows-1)
+                    {
+                        index += step;
+                    }
+                    else
+                    {
+                        index += add;
+                    }
+                }
             }
-            return "s";
+            return ret;
         }
     }
 }

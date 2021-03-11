@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Reverse\bin\Debug\net472\Reverse.exe.config
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Reverse\bin\Debug\net472\Reverse.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Reverse\bin\Debug\net472\Reverse.pdb
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Reverse\obj\Debug\net472\Reverse.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Reverse\obj\Debug\net472\Reverse.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Reverse\obj\Debug\net472\Reverse.AssemblyInfo.cs
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Reverse\obj\Debug\net472\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Reverse\obj\Debug\net472\Reverse.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Reverse\obj\Debug\net472\Reverse.pdb

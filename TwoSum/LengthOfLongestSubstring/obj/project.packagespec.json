@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LeeCode\\TwoSum\\LengthOfLongestSubstring\\LengthOfLongestSubstring.csproj",
+    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\LengthOfLongestSubstring\\LengthOfLongestSubstring.csproj",
     "projectName": "LengthOfLongestSubstring",
-    "projectPath": "C:\\Users\\tpl\\Desktop\\LeeCode\\TwoSum\\LengthOfLongestSubstring\\LengthOfLongestSubstring.csproj",
-    "outputPath": "C:\\Users\\tpl\\Desktop\\LeeCode\\TwoSum\\LengthOfLongestSubstring\\obj\\",
+    "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\LengthOfLongestSubstring\\LengthOfLongestSubstring.csproj",
+    "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\LengthOfLongestSubstring\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net472"

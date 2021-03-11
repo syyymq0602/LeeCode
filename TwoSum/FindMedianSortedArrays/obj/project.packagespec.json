@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LeeCode\\TwoSum\\FindMedianSortedArrays\\FindMedianSortedArrays.csproj",
+    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\FindMedianSortedArrays\\FindMedianSortedArrays.csproj",
     "projectName": "FindMedianSortedArrays",
-    "projectPath": "C:\\Users\\tpl\\Desktop\\LeeCode\\TwoSum\\FindMedianSortedArrays\\FindMedianSortedArrays.csproj",
-    "outputPath": "C:\\Users\\tpl\\Desktop\\LeeCode\\TwoSum\\FindMedianSortedArrays\\obj\\",
+    "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\FindMedianSortedArrays\\FindMedianSortedArrays.csproj",
+    "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\FindMedianSortedArrays\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net472"

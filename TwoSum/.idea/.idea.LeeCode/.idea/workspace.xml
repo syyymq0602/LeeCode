@@ -8,6 +8,7 @@
     <projectFile>LongestPalindrome/LongestPalindrome.csproj</projectFile>
     <projectFile>Convert/Convert.csproj</projectFile>
     <projectFile>Reverse/Reverse.csproj</projectFile>
+    <projectFile>isPalindrome/isPalindrome.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -30,8 +31,62 @@
   <component name="ChangeListManager">
     <list default="true" id="36d65a26-325f-4d80-af60-eae5a109286e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert/obj/Convert.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convert/obj/Convert.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert/obj/Convert.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Convert/obj/Convert.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert/obj/Debug/net472/Convert.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Convert/obj/Debug/net472/Convert.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert/obj/Debug/net472/Convert.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Convert/obj/Debug/net472/Convert.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convert/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Convert/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convert/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Convert/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindMedianSortedArrays/obj/Debug/net472/FindMedianSortedArrays.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FindMedianSortedArrays/obj/Debug/net472/FindMedianSortedArrays.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindMedianSortedArrays/obj/FindMedianSortedArrays.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FindMedianSortedArrays/obj/FindMedianSortedArrays.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindMedianSortedArrays/obj/FindMedianSortedArrays.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FindMedianSortedArrays/obj/FindMedianSortedArrays.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindMedianSortedArrays/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FindMedianSortedArrays/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindMedianSortedArrays/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FindMedianSortedArrays/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindMedianSortedArrays/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FindMedianSortedArrays/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindMedianSortedArrays/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/FindMedianSortedArrays/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeeCode.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LeeCode.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/Debug/net472/LengthOfLongestSubstring.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/Debug/net472/LengthOfLongestSubstring.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/LengthOfLongestSubstring.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/LengthOfLongestSubstring.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/LengthOfLongestSubstring.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/LengthOfLongestSubstring.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestPalindrome/obj/Debug/net472/LongestPalindrome.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LongestPalindrome/obj/Debug/net472/LongestPalindrome.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestPalindrome/obj/Debug/net472/LongestPalindrome.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LongestPalindrome/obj/Debug/net472/LongestPalindrome.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestPalindrome/obj/LongestPalindrome.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LongestPalindrome/obj/LongestPalindrome.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestPalindrome/obj/LongestPalindrome.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LongestPalindrome/obj/LongestPalindrome.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestPalindrome/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LongestPalindrome/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestPalindrome/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LongestPalindrome/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestPalindrome/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LongestPalindrome/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestPalindrome/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LongestPalindrome/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse/obj/Debug/net472/Reverse.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse/obj/Debug/net472/Reverse.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse/obj/Debug/net472/Reverse.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse/obj/Debug/net472/Reverse.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse/obj/Reverse.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse/obj/Reverse.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse/obj/Reverse.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse/obj/Reverse.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/Debug/net472/TwoSum.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/Debug/net472/TwoSum.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/Debug/net472/TwoSum.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/Debug/net472/TwoSum.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/TwoSum.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/TwoSum.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/TwoSum.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/TwoSum.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addTwoNumbers/obj/Debug/net472/addTwoNumbers.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoNumbers/obj/Debug/net472/addTwoNumbers.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addTwoNumbers/obj/addTwoNumbers.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoNumbers/obj/addTwoNumbers.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addTwoNumbers/obj/addTwoNumbers.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoNumbers/obj/addTwoNumbers.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addTwoNumbers/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoNumbers/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addTwoNumbers/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoNumbers/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addTwoNumbers/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoNumbers/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addTwoNumbers/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoNumbers/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,26 +96,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/62/d1d13b07/Char.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/d3/cda94abe/Number.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/63/d9107071/Convert.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/01/31e70bd8/RuntimeHelpers.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/49/8be20a42/ArrayList.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/b7/eb21bcff/Buffer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/75/e86382a2/String.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/c4/2bd170c3/Array.cs" root0="SKIP_HIGHLIGHTING" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/LengthOfLongestSubstring/Program.cs" />
-        <option value="$PROJECT_DIR$/FindMedianSortedArrays/Program.cs" />
-        <option value="$PROJECT_DIR$/LongestPalindrome/Program.cs" />
-        <option value="$PROJECT_DIR$/Convert/Program.cs" />
-        <option value="$PROJECT_DIR$/Reverse/Program.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/isPalindrome/Program.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1pNe8xnT25WPwGjkBCdwYT08Ftb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,10 +119,11 @@
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.14084508" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.12026002" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.Reverse">
+  <component name="RunManager" selected=".NET Project.isPalindrome">
     <configuration name="Convert" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -202,6 +250,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="isPalindrome" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/isPalindrome/isPalindrome.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -215,6 +281,7 @@
       <workItem from="1615080229574" duration="6783000" />
       <workItem from="1615206182106" duration="4185000" />
       <workItem from="1615257838164" duration="10984000" />
+      <workItem from="1615472726350" duration="1226000" />
     </task>
     <servers />
   </component>
@@ -237,91 +304,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1080" height="285" key="GridCell.Tab.0.bottom" timestamp="1615452551475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1080" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615452551475" />
-    <state width="1080" height="285" key="GridCell.Tab.0.center" timestamp="1615452551475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1080" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615452551475" />
-    <state width="1080" height="285" key="GridCell.Tab.0.left" timestamp="1615452551475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1080" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615452551475" />
-    <state width="1080" height="285" key="GridCell.Tab.0.right" timestamp="1615452551475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1080" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615452551475" />
-    <state width="1877" height="315" key="GridCell.Tab.1.bottom" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.1.center" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.1.left" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.1.right" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.2.bottom" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.2.center" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.2.left" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.2.right" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.3.bottom" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.3.center" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.3.left" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.3.right" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.4.bottom" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.4.center" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.4.left" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state width="1877" height="315" key="GridCell.Tab.4.right" timestamp="1615450676090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="315" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615450676090" />
-    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1615446381276">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1615446381276" />
   </component>
 </project>

@@ -11,19 +11,16 @@ namespace isPalindrome
 
         private static bool IsPalindrome(int x)
         {
-            var str = x.ToString();
-            char[] chars = str.ToCharArray();
-            for (int i = 0; i < chars.Length/2; i++)
-            {
-                var m = chars[i];
-                chars[i] = chars[str.Length - 1 - i];
-                chars[str.Length - 1 - i] = m;
+            if (x < 0)
+                return false;
+            int rem = 0, y = 0;
+            int quo = x;
+            while(quo!=0){
+                rem = quo % 10;
+                y = y * 10 + rem;
+                quo = quo / 10;
             }
-
-            string s = new string(chars);
-            if (s == str)
-                return true;
-            return false;
+            return y == x;
         }
     }
 }

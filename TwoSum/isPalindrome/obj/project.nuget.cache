@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GkY4ry+7X5PwXgZpo3d+lvv8DmOnPiDvstRlEBWCbpZyS99USfPo2Dtt8cdQpkHT+V9zChQiqrn6g5GchIl8kg==",
+  "dgSpecHash": "8nYxOswb16DD0K4gpLlhMvgH5nCRQfFiv2Bc2q4P4hkHDFKcT+EaKcGI1+H3S+QwscWPm1AU3XI2QIuHJa/66w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PPG\\Desktop\\b\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
+  "projectFilePath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

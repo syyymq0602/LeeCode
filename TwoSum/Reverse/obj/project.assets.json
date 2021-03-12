@@ -9,26 +9,26 @@
     ".NETFramework,Version=v4.7.2": []
   },
   "packageFolders": {
-    "E:\\nuget\\packages\\": {}
+    "C:\\Users\\tpl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PPG\\Desktop\\b\\LeeCode\\TwoSum\\Reverse\\Reverse.csproj",
+      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\Reverse\\Reverse.csproj",
       "projectName": "Reverse",
-      "projectPath": "C:\\Users\\PPG\\Desktop\\b\\LeeCode\\TwoSum\\Reverse\\Reverse.csproj",
-      "packagesPath": "E:\\nuget\\packages\\",
-      "outputPath": "C:\\Users\\PPG\\Desktop\\b\\LeeCode\\TwoSum\\Reverse\\obj\\",
+      "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\Reverse\\Reverse.csproj",
+      "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\Reverse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PPG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net472"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\NuGet\\Config\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,7 +46,7 @@
     "frameworks": {
       "net472": {
         "targetAlias": "net472",
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MyAtoi\bin\Debug\net472\MyAtoi.exe.config
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MyAtoi\bin\Debug\net472\MyAtoi.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MyAtoi\bin\Debug\net472\MyAtoi.pdb
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MyAtoi\obj\Debug\net472\MyAtoi.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MyAtoi\obj\Debug\net472\MyAtoi.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MyAtoi\obj\Debug\net472\MyAtoi.AssemblyInfo.cs
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MyAtoi\obj\Debug\net472\MyAtoi.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MyAtoi\obj\Debug\net472\MyAtoi.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MyAtoi\obj\Debug\net472\MyAtoi.pdb

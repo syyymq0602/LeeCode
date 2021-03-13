@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj",
-    "projectName": "LongestPalindrome",
-    "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj",
-    "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\LongestPalindrome\\obj\\",
+    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj",
+    "projectName": "MyAtoi",
+    "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj",
+    "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\MyAtoi\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net472"

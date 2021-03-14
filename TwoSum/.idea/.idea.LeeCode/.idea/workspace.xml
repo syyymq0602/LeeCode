@@ -10,6 +10,7 @@
     <projectFile>Reverse/Reverse.csproj</projectFile>
     <projectFile>isPalindrome/isPalindrome.csproj</projectFile>
     <projectFile>MyAtoi/MyAtoi.csproj</projectFile>
+    <projectFile>isMatch/isMatch.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -32,27 +33,9 @@
   <component name="ChangeListManager">
     <list default="true" id="36d65a26-325f-4d80-af60-eae5a109286e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convert/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convert/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindMedianSortedArrays/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FindMedianSortedArrays/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeeCode.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LeeCode.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/Debug/net472/LengthOfLongestSubstring.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/Debug/net472/LengthOfLongestSubstring.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LengthOfLongestSubstring/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongestPalindrome/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LongestPalindrome/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reverse/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSum/obj/Debug/net472/TwoSum.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/Debug/net472/TwoSum.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSum/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addTwoNumbers/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoNumbers/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPalindrome/bin/Debug/net5.0/isPalindrome.dll" beforeDir="false" afterPath="$PROJECT_DIR$/isPalindrome/bin/Debug/net5.0/isPalindrome.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPalindrome/bin/Debug/net5.0/isPalindrome.exe" beforeDir="false" afterPath="$PROJECT_DIR$/isPalindrome/bin/Debug/net5.0/isPalindrome.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPalindrome/bin/Debug/net5.0/isPalindrome.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/isPalindrome/bin/Debug/net5.0/isPalindrome.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPalindrome/bin/Debug/net5.0/isPalindrome.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/isPalindrome/bin/Debug/net5.0/isPalindrome.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPalindrome/obj/Debug/net5.0/isPalindrome.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/isPalindrome/obj/Debug/net5.0/isPalindrome.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPalindrome/obj/Debug/net5.0/isPalindrome.dll" beforeDir="false" afterPath="$PROJECT_DIR$/isPalindrome/obj/Debug/net5.0/isPalindrome.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPalindrome/obj/Debug/net5.0/isPalindrome.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/isPalindrome/obj/Debug/net5.0/isPalindrome.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPalindrome/obj/Debug/net5.0/isPalindrome.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/isPalindrome/obj/Debug/net5.0/isPalindrome.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPalindrome/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/isPalindrome/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAtoi/obj/Debug/net472/MyAtoi.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyAtoi/obj/Debug/net472/MyAtoi.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +57,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/MyAtoi/Program.cs" />
+        <option value="$PROJECT_DIR$/isMatch/Program.cs" />
       </list>
     </option>
   </component>
@@ -84,14 +68,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.14108674" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.12011439" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.14084508" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.12026002" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.MyAtoi">
+  <component name="RunManager" selected=".NET Project.isMatch">
     <configuration name="Convert" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -236,6 +220,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="isMatch" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/isMatch/isMatch.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="isPalindrome" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -268,7 +270,8 @@
       <workItem from="1615206182106" duration="4185000" />
       <workItem from="1615257838164" duration="10984000" />
       <workItem from="1615472726350" duration="1226000" />
-      <workItem from="1615605438052" duration="6287000" />
+      <workItem from="1615605438052" duration="6839000" />
+      <workItem from="1615691507048" duration="1704000" />
     </task>
     <servers />
   </component>
@@ -293,89 +296,89 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="311" key="GridCell.Tab.0.bottom" timestamp="1615626465596">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1615707856704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615626465596" />
-    <state width="1877" height="311" key="GridCell.Tab.0.center" timestamp="1615626465596">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615707856704" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1615707856704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615626465596" />
-    <state width="1877" height="311" key="GridCell.Tab.0.left" timestamp="1615626465596">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615707856704" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1615707856704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615626465596" />
-    <state width="1877" height="311" key="GridCell.Tab.0.right" timestamp="1615626465596">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615707856704" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1615707856704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615626465596" />
-    <state width="1877" height="288" key="GridCell.Tab.1.bottom" timestamp="1615626428706">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615707856704" />
+    <state width="1877" height="288" key="GridCell.Tab.1.bottom" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.1.center" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.1.center" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.1.left" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.1.left" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.1.right" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.1.right" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.2.bottom" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.2.bottom" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.2.center" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.2.center" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.2.left" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.2.left" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.2.right" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.2.right" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.3.bottom" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.3.bottom" timestamp="1615707713521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.3.center" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713521" />
+    <state width="1877" height="288" key="GridCell.Tab.3.center" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.3.left" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.3.left" timestamp="1615707713520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.3.right" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713520" />
+    <state width="1877" height="288" key="GridCell.Tab.3.right" timestamp="1615707713521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.4.bottom" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713521" />
+    <state width="1877" height="288" key="GridCell.Tab.4.bottom" timestamp="1615707713521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.4.center" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713521" />
+    <state width="1877" height="288" key="GridCell.Tab.4.center" timestamp="1615707713521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.4.left" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713521" />
+    <state width="1877" height="288" key="GridCell.Tab.4.left" timestamp="1615707713521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state width="1877" height="288" key="GridCell.Tab.4.right" timestamp="1615626428706">
+    <state width="1877" height="288" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713521" />
+    <state width="1877" height="288" key="GridCell.Tab.4.right" timestamp="1615707713521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615626428706" />
-    <state x="498" y="265" key="Rider.ProjectTemplateDialog.Size" timestamp="1615605758382">
+    <state width="1877" height="288" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615707713521" />
+    <state x="498" y="265" key="Rider.ProjectTemplateDialog.Size" timestamp="1615706926725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="498" y="265" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1615605758382" />
+    <state x="498" y="265" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1615706926725" />
   </component>
 </project>

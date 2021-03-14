@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\isMatch\bin\Debug\net472\isMatch.exe.config
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\isMatch\bin\Debug\net472\isMatch.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\isMatch\bin\Debug\net472\isMatch.pdb
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\isMatch\obj\Debug\net472\isMatch.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\isMatch\obj\Debug\net472\isMatch.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\isMatch\obj\Debug\net472\isMatch.AssemblyInfo.cs
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\isMatch\obj\Debug\net472\isMatch.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\isMatch\obj\Debug\net472\isMatch.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\isMatch\obj\Debug\net472\isMatch.pdb

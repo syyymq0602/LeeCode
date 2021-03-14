@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAtoi", "MyAtoi\MyAtoi.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isMatch", "isMatch\isMatch.csproj", "{DE53821E-D3EE-4D09-B7E2-7D08AF2A6EB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestValidParentheses", "LongestValidParentheses\LongestValidParentheses.csproj", "{36E5C47D-282E-4358-97F3-3CD18E1FC9D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{DE53821E-D3EE-4D09-B7E2-7D08AF2A6EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE53821E-D3EE-4D09-B7E2-7D08AF2A6EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE53821E-D3EE-4D09-B7E2-7D08AF2A6EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E5C47D-282E-4358-97F3-3CD18E1FC9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E5C47D-282E-4358-97F3-3CD18E1FC9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E5C47D-282E-4358-97F3-3CD18E1FC9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E5C47D-282E-4358-97F3-3CD18E1FC9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

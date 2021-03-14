@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\LongestValidParentheses\bin\Debug\net472\LongestValidParentheses.exe.config
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\LongestValidParentheses\bin\Debug\net472\LongestValidParentheses.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\LongestValidParentheses\bin\Debug\net472\LongestValidParentheses.pdb
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\LongestValidParentheses\obj\Debug\net472\LongestValidParentheses.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\LongestValidParentheses\obj\Debug\net472\LongestValidParentheses.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\LongestValidParentheses\obj\Debug\net472\LongestValidParentheses.AssemblyInfo.cs
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\LongestValidParentheses\obj\Debug\net472\LongestValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\LongestValidParentheses\obj\Debug\net472\LongestValidParentheses.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\LongestValidParentheses\obj\Debug\net472\LongestValidParentheses.pdb

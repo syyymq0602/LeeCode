@@ -101,6 +101,18 @@
         </e>
         <e p="Program.cs" t="Include" />
       </e>
+      <e p="MaxArea" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MaxArea.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="MaxArea.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="MyAtoi" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="MyAtoi.csproj" t="IncludeRecursive" />

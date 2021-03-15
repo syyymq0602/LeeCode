@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MaxArea\bin\Debug\net472\MaxArea.exe.config
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MaxArea\bin\Debug\net472\MaxArea.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MaxArea\bin\Debug\net472\MaxArea.pdb
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MaxArea\obj\Debug\net472\MaxArea.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MaxArea\obj\Debug\net472\MaxArea.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MaxArea\obj\Debug\net472\MaxArea.AssemblyInfo.cs
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MaxArea\obj\Debug\net472\MaxArea.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MaxArea\obj\Debug\net472\MaxArea.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\MaxArea\obj\Debug\net472\MaxArea.pdb

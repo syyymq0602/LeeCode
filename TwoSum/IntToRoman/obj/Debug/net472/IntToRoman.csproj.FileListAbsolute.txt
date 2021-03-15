@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\IntToRoman\bin\Debug\net472\IntToRoman.exe.config
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\IntToRoman\bin\Debug\net472\IntToRoman.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\IntToRoman\bin\Debug\net472\IntToRoman.pdb
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\IntToRoman\obj\Debug\net472\IntToRoman.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\IntToRoman\obj\Debug\net472\IntToRoman.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\IntToRoman\obj\Debug\net472\IntToRoman.AssemblyInfo.cs
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\IntToRoman\obj\Debug\net472\IntToRoman.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\IntToRoman\obj\Debug\net472\IntToRoman.exe
+C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\IntToRoman\obj\Debug\net472\IntToRoman.pdb

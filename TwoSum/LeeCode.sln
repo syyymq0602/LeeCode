@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntToRoman", "IntToRoman\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInt", "RomanToInt\RomanToInt.csproj", "{B079E54E-FD78-4860-9B10-77FD2C6C732A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{B8CB6860-00AF-4CAF-B1B5-EDC13029DE61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{B079E54E-FD78-4860-9B10-77FD2C6C732A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B079E54E-FD78-4860-9B10-77FD2C6C732A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B079E54E-FD78-4860-9B10-77FD2C6C732A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CB6860-00AF-4CAF-B1B5-EDC13029DE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CB6860-00AF-4CAF-B1B5-EDC13029DE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CB6860-00AF-4CAF-B1B5-EDC13029DE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CB6860-00AF-4CAF-B1B5-EDC13029DE61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

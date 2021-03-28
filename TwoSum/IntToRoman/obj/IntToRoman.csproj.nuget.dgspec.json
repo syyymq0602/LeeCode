@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\IntToRoman\\IntToRoman.csproj": {}
+    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\IntToRoman\\IntToRoman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\IntToRoman\\IntToRoman.csproj": {
+    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\IntToRoman\\IntToRoman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\IntToRoman\\IntToRoman.csproj",
+        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\IntToRoman\\IntToRoman.csproj",
         "projectName": "IntToRoman",
-        "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\IntToRoman\\IntToRoman.csproj",
+        "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\IntToRoman\\IntToRoman.csproj",
         "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\IntToRoman\\obj\\",
+        "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\IntToRoman\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

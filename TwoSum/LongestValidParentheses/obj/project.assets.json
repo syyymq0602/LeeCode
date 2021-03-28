@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj",
+      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj",
       "projectName": "LongestValidParentheses",
-      "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj",
+      "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj",
       "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\LongestValidParentheses\\obj\\",
+      "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestValidParentheses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

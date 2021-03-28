@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\MaxArea\\MaxArea.csproj": {}
+    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MaxArea\\MaxArea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\MaxArea\\MaxArea.csproj": {
+    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MaxArea\\MaxArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\MaxArea\\MaxArea.csproj",
+        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MaxArea\\MaxArea.csproj",
         "projectName": "MaxArea",
-        "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\MaxArea\\MaxArea.csproj",
+        "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MaxArea\\MaxArea.csproj",
         "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\MaxArea\\obj\\",
+        "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MaxArea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

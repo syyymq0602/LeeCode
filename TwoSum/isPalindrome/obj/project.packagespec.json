@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
+    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
     "projectName": "isPalindrome",
-    "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
-    "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\isPalindrome\\obj\\",
+    "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
+    "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isPalindrome\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net50"

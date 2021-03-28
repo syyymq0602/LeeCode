@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxArea", "MaxArea\MaxArea.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntToRoman", "IntToRoman\IntToRoman.csproj", "{7CC48090-D916-41F5-8F2A-12CFA7E5FE73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInt", "RomanToInt\RomanToInt.csproj", "{B079E54E-FD78-4860-9B10-77FD2C6C732A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{7CC48090-D916-41F5-8F2A-12CFA7E5FE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC48090-D916-41F5-8F2A-12CFA7E5FE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC48090-D916-41F5-8F2A-12CFA7E5FE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B079E54E-FD78-4860-9B10-77FD2C6C732A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B079E54E-FD78-4860-9B10-77FD2C6C732A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B079E54E-FD78-4860-9B10-77FD2C6C732A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B079E54E-FD78-4860-9B10-77FD2C6C732A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

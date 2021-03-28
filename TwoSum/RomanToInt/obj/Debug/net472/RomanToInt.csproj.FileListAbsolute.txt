@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\RomanToInt\bin\Debug\net472\RomanToInt.exe.config
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\RomanToInt\bin\Debug\net472\RomanToInt.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\RomanToInt\bin\Debug\net472\RomanToInt.pdb
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\RomanToInt\obj\Debug\net472\RomanToInt.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\RomanToInt\obj\Debug\net472\RomanToInt.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\RomanToInt\obj\Debug\net472\RomanToInt.AssemblyInfo.cs
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\RomanToInt\obj\Debug\net472\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\RomanToInt\obj\Debug\net472\RomanToInt.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\RomanToInt\obj\Debug\net472\RomanToInt.pdb

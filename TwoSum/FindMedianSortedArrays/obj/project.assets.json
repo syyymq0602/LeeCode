@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\FindMedianSortedArrays\\FindMedianSortedArrays.csproj",
+      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\FindMedianSortedArrays\\FindMedianSortedArrays.csproj",
       "projectName": "FindMedianSortedArrays",
-      "projectPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\FindMedianSortedArrays\\FindMedianSortedArrays.csproj",
+      "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\FindMedianSortedArrays\\FindMedianSortedArrays.csproj",
       "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpl\\Desktop\\LC\\LeeCode\\TwoSum\\FindMedianSortedArrays\\obj\\",
+      "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\FindMedianSortedArrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

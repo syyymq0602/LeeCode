@@ -25,7 +25,6 @@ namespace ThreeSumClosest
                 while (left < right)
                 {
                     var diff = nums[i] + nums[left] + nums[right] - target;
-                    // var closest = Math.Min(close, Math.Abs(diff));
                     if (diff == 0)
                     {
                         return target;

@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\ThreeSumClosest\bin\Debug\net472\ThreeSumClosest.exe.config
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\ThreeSumClosest\bin\Debug\net472\ThreeSumClosest.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\ThreeSumClosest\bin\Debug\net472\ThreeSumClosest.pdb
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\ThreeSumClosest\obj\Debug\net472\ThreeSumClosest.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\ThreeSumClosest\obj\Debug\net472\ThreeSumClosest.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\ThreeSumClosest\obj\Debug\net472\ThreeSumClosest.AssemblyInfo.cs
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\ThreeSumClosest\obj\Debug\net472\ThreeSumClosest.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\ThreeSumClosest\obj\Debug\net472\ThreeSumClosest.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\ThreeSumClosest\obj\Debug\net472\ThreeSumClosest.pdb

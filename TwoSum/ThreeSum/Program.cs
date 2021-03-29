@@ -47,7 +47,6 @@ namespace ThreeSum
                     }
                 }
             }
-
             return result;
         }
     }

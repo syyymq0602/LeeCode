@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\LetterCombinations\bin\Debug\net472\LetterCombinations.exe.config
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\LetterCombinations\bin\Debug\net472\LetterCombinations.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\LetterCombinations\bin\Debug\net472\LetterCombinations.pdb
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\LetterCombinations\obj\Debug\net472\LetterCombinations.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\LetterCombinations\obj\Debug\net472\LetterCombinations.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\LetterCombinations\obj\Debug\net472\LetterCombinations.AssemblyInfo.cs
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\LetterCombinations\obj\Debug\net472\LetterCombinations.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\LetterCombinations\obj\Debug\net472\LetterCombinations.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\LetterCombinations\obj\Debug\net472\LetterCombinations.pdb

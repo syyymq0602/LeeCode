@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsUgly\bin\Debug\net472\IsUgly.exe.config
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsUgly\bin\Debug\net472\IsUgly.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsUgly\bin\Debug\net472\IsUgly.pdb
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsUgly\obj\Debug\net472\IsUgly.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsUgly\obj\Debug\net472\IsUgly.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsUgly\obj\Debug\net472\IsUgly.AssemblyInfo.cs
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsUgly\obj\Debug\net472\IsUgly.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsUgly\obj\Debug\net472\IsUgly.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsUgly\obj\Debug\net472\IsUgly.pdb

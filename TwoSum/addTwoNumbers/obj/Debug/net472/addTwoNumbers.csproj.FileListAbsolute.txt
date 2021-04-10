@@ -7,3 +7,12 @@ C:\Users\tpl\Desktop\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers
 C:\Users\tpl\Desktop\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers.csproj.CoreCompileInputs.cache
 C:\Users\tpl\Desktop\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers.exe
 C:\Users\tpl\Desktop\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers.pdb
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\bin\Debug\net472\addTwoNumbers.exe.config
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\bin\Debug\net472\addTwoNumbers.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\bin\Debug\net472\addTwoNumbers.pdb
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers.AssemblyInfo.cs
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\obj\Debug\net472\addTwoNumbers.pdb

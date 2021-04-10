@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\bin\Debug\net472\FourSum.exe.config
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\bin\Debug\net472\FourSum.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\bin\Debug\net472\FourSum.pdb
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\obj\Debug\net472\FourSum.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\obj\Debug\net472\FourSum.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\obj\Debug\net472\FourSum.AssemblyInfo.cs
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\obj\Debug\net472\FourSum.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\obj\Debug\net472\FourSum.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\obj\Debug\net472\FourSum.pdb

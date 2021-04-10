@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSumClosest", "ThreeSum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCombinations", "LetterCombinations\LetterCombinations.csproj", "{D618F16A-726D-4B22-99EB-F4D80CADF76E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSum", "FourSum\FourSum.csproj", "{AE608263-9225-438A-B099-31C675DF2648}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{D618F16A-726D-4B22-99EB-F4D80CADF76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D618F16A-726D-4B22-99EB-F4D80CADF76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D618F16A-726D-4B22-99EB-F4D80CADF76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE608263-9225-438A-B099-31C675DF2648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE608263-9225-438A-B099-31C675DF2648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE608263-9225-438A-B099-31C675DF2648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE608263-9225-438A-B099-31C675DF2648}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

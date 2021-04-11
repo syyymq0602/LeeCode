@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsValid\bin\Debug\net472\IsValid.exe.config
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsValid\bin\Debug\net472\IsValid.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsValid\bin\Debug\net472\IsValid.pdb
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsValid\obj\Debug\net472\IsValid.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsValid\obj\Debug\net472\IsValid.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsValid\obj\Debug\net472\IsValid.AssemblyInfo.cs
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsValid\obj\Debug\net472\IsValid.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsValid\obj\Debug\net472\IsValid.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\IsValid\obj\Debug\net472\IsValid.pdb

@@ -44,6 +44,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthFromEnd", "RemoveN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsValid", "IsValid\IsValid.csproj", "{CDA3D9DD-D569-4ADB-8F0D-7EFE963A47B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthUglyNumber", "NthUglyNumber\NthUglyNumber.csproj", "{A0F3A785-A3E7-499C-A709-60B5A018B788}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{CDA3D9DD-D569-4ADB-8F0D-7EFE963A47B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDA3D9DD-D569-4ADB-8F0D-7EFE963A47B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDA3D9DD-D569-4ADB-8F0D-7EFE963A47B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F3A785-A3E7-499C-A709-60B5A018B788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F3A785-A3E7-499C-A709-60B5A018B788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F3A785-A3E7-499C-A709-60B5A018B788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F3A785-A3E7-499C-A709-60B5A018B788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

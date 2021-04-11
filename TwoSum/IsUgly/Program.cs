@@ -7,14 +7,13 @@ namespace IsUgly
         // 0和负整数不算是丑数
         static void Main(string[] args)
         {
-            int num = 0;
+            int num = 5;
             var res = IsUgly(num);
             Console.WriteLine(res.ToString());
         }
         private static bool IsUgly(int n)
         {
-            bool result = false;
-            if (n == 0)
+            if (n <= 0)
                 return false;
             int[] nums = new[] {2, 3, 5};
             for (int i = 0; i < nums.Length; i++)
@@ -23,13 +22,8 @@ namespace IsUgly
                 {
                     n /= nums[i];
                 }
-                if (n == 1)
-                {
-                    result = true;
-                    break;
-                }
             }
-            return result;
+            return n == 1;
         }
     }
 }

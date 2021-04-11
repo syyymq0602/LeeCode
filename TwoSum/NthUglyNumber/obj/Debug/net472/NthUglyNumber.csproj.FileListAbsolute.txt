@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\NthUglyNumber\bin\Debug\net472\NthUglyNumber.exe.config
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\NthUglyNumber\bin\Debug\net472\NthUglyNumber.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\NthUglyNumber\bin\Debug\net472\NthUglyNumber.pdb
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\NthUglyNumber\obj\Debug\net472\NthUglyNumber.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\NthUglyNumber\obj\Debug\net472\NthUglyNumber.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\NthUglyNumber\obj\Debug\net472\NthUglyNumber.AssemblyInfo.cs
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\NthUglyNumber\obj\Debug\net472\NthUglyNumber.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\NthUglyNumber\obj\Debug\net472\NthUglyNumber.exe
+C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\NthUglyNumber\obj\Debug\net472\NthUglyNumber.pdb

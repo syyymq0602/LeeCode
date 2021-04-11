@@ -12,7 +12,7 @@ namespace IsValid
             var res = IsValid(s);
             Console.WriteLine(res.ToString());
         }
-        // 字典 栈 的使用！！！g'i
+        // 字典 栈 的使用！！！
         public static bool IsValid(string s)
         {
             int len = s.Length;

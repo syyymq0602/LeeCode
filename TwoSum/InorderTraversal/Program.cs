@@ -9,6 +9,7 @@ namespace InorderTraversal
         {
             Console.WriteLine("Hello World!");
         }
+        // 中序遍历   左-根-右
         private static IList<int> InorderTraversal(TreeNode root)
         {
             IList<int> res = new List<int>();

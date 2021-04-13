@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\RemoveNthFromEnd\\RemoveNthFromEnd.csproj",
+    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\RemoveNthFromEnd\\RemoveNthFromEnd.csproj",
     "projectName": "RemoveNthFromEnd",
-    "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\RemoveNthFromEnd\\RemoveNthFromEnd.csproj",
-    "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\RemoveNthFromEnd\\obj\\",
+    "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\RemoveNthFromEnd\\RemoveNthFromEnd.csproj",
+    "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\RemoveNthFromEnd\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net472"

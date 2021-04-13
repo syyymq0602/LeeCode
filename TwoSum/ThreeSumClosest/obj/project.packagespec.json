@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\ThreeSumClosest\\ThreeSumClosest.csproj",
+    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\ThreeSumClosest\\ThreeSumClosest.csproj",
     "projectName": "ThreeSumClosest",
-    "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\ThreeSumClosest\\ThreeSumClosest.csproj",
-    "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\ThreeSumClosest\\obj\\",
+    "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\ThreeSumClosest\\ThreeSumClosest.csproj",
+    "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\ThreeSumClosest\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net472"

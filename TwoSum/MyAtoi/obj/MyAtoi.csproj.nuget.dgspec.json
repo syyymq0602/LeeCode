@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj": {}
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj": {
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj",
+        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj",
         "projectName": "MyAtoi",
-        "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj",
+        "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\MyAtoi\\MyAtoi.csproj",
         "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\MyAtoi\\obj\\",
+        "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\MyAtoi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj",
+    "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj",
     "projectName": "isMatch",
-    "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj",
-    "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isMatch\\obj\\",
+    "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj",
+    "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isMatch\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net472"

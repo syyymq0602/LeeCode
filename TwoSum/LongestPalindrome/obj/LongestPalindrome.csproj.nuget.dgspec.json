@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj": {}
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj": {
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj",
+        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj",
         "projectName": "LongestPalindrome",
-        "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj",
+        "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestPalindrome\\LongestPalindrome.csproj",
         "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestPalindrome\\obj\\",
+        "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestPalindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

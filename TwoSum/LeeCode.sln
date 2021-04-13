@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinDiffInBST", "MinDiffInBS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InorderTraversal", "InorderTraversal\InorderTraversal.csproj", "{0AEC4EDC-DFC4-4B2E-A05B-738AE75A02A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreorderTraversal", "PreorderTraversal\PreorderTraversal.csproj", "{8BCD55D4-63D8-4BD3-8835-3C9F4DE3D726}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +164,9 @@ Global
 		{0AEC4EDC-DFC4-4B2E-A05B-738AE75A02A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AEC4EDC-DFC4-4B2E-A05B-738AE75A02A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AEC4EDC-DFC4-4B2E-A05B-738AE75A02A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCD55D4-63D8-4BD3-8835-3C9F4DE3D726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCD55D4-63D8-4BD3-8835-3C9F4DE3D726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCD55D4-63D8-4BD3-8835-3C9F4DE3D726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCD55D4-63D8-4BD3-8835-3C9F4DE3D726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

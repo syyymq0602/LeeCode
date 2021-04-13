@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\RemoveNthFromEnd\\RemoveNthFromEnd.csproj",
+      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\RemoveNthFromEnd\\RemoveNthFromEnd.csproj",
       "projectName": "RemoveNthFromEnd",
-      "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\RemoveNthFromEnd\\RemoveNthFromEnd.csproj",
+      "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\RemoveNthFromEnd\\RemoveNthFromEnd.csproj",
       "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\RemoveNthFromEnd\\obj\\",
+      "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\RemoveNthFromEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

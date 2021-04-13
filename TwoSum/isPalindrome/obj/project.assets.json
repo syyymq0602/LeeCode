@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
+      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
       "projectName": "isPalindrome",
-      "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
+      "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isPalindrome\\isPalindrome.csproj",
       "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isPalindrome\\obj\\",
+      "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isPalindrome\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

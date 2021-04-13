@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj": {}
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj": {
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj",
+        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj",
         "projectName": "LongestValidParentheses",
-        "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj",
+        "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestValidParentheses\\LongestValidParentheses.csproj",
         "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestValidParentheses\\obj\\",
+        "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestValidParentheses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\InorderTraversal\\InorderTraversal.csproj",
+      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\InorderTraversal\\InorderTraversal.csproj",
       "projectName": "InorderTraversal",
-      "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\InorderTraversal\\InorderTraversal.csproj",
+      "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\InorderTraversal\\InorderTraversal.csproj",
       "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\InorderTraversal\\obj\\",
+      "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\InorderTraversal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

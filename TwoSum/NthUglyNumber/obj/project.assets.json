@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\NthUglyNumber\\NthUglyNumber.csproj",
+      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\NthUglyNumber\\NthUglyNumber.csproj",
       "projectName": "NthUglyNumber",
-      "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\NthUglyNumber\\NthUglyNumber.csproj",
+      "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\NthUglyNumber\\NthUglyNumber.csproj",
       "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\NthUglyNumber\\obj\\",
+      "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\NthUglyNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

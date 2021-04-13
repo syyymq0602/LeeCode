@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestCommonPrefix\\LongestCommonPrefix.csproj": {}
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestCommonPrefix\\LongestCommonPrefix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestCommonPrefix\\LongestCommonPrefix.csproj": {
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestCommonPrefix\\LongestCommonPrefix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
+        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
         "projectName": "LongestCommonPrefix",
-        "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
+        "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
         "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\LongestCommonPrefix\\obj\\",
+        "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\LongestCommonPrefix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

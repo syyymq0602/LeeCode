@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj": {}
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj": {
+    "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj",
+        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj",
         "projectName": "isMatch",
-        "projectPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj",
+        "projectPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isMatch\\isMatch.csproj",
         "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpl\\Desktop\\新建文件夹\\LeeCode\\TwoSum\\isMatch\\obj\\",
+        "outputPath": "C:\\Users\\tpl\\Desktop\\aaa\\LeeCode\\TwoSum\\isMatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

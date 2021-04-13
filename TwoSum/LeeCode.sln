@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InorderTraversal", "Inorder
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreorderTraversal", "PreorderTraversal\PreorderTraversal.csproj", "{8BCD55D4-63D8-4BD3-8835-3C9F4DE3D726}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostorderTraversal", "PostorderTraversal\PostorderTraversal.csproj", "{DB0CA168-1018-4876-A2F6-5C4EC122B2F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{8BCD55D4-63D8-4BD3-8835-3C9F4DE3D726}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BCD55D4-63D8-4BD3-8835-3C9F4DE3D726}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BCD55D4-63D8-4BD3-8835-3C9F4DE3D726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0CA168-1018-4876-A2F6-5C4EC122B2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0CA168-1018-4876-A2F6-5C4EC122B2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0CA168-1018-4876-A2F6-5C4EC122B2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0CA168-1018-4876-A2F6-5C4EC122B2F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

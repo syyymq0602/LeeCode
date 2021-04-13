@@ -24,6 +24,8 @@
     <projectFile>RemoveNthFromEnd/RemoveNthFromEnd.csproj</projectFile>
     <projectFile>IsValid/IsValid.csproj</projectFile>
     <projectFile>NthUglyNumber/NthUglyNumber.csproj</projectFile>
+    <projectFile>LargestNumber/LargestNumber.csproj</projectFile>
+    <projectFile>MinDiffInBST/MinDiffInBST.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -45,15 +47,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36d65a26-325f-4d80-af60-eae5a109286e" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeeCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IsUgly/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IsUgly/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IsUgly/bin/Debug/net472/IsUgly.exe" beforeDir="false" afterPath="$PROJECT_DIR$/IsUgly/bin/Debug/net472/IsUgly.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IsUgly/bin/Debug/net472/IsUgly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/IsUgly/bin/Debug/net472/IsUgly.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IsUgly/obj/Debug/net472/IsUgly.exe" beforeDir="false" afterPath="$PROJECT_DIR$/IsUgly/obj/Debug/net472/IsUgly.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IsUgly/obj/Debug/net472/IsUgly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/IsUgly/obj/Debug/net472/IsUgly.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IsValid/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IsValid/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeeCode.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LeeCode.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/Debug/net472/TwoSum.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/Debug/net472/TwoSum.csprojAssemblyReference.cache" afterDir="false" />
+>>>>>>> f283f3de52a9db5a88c39c25d9932eed09f93870
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,34 +74,14 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/be/78ad4475/List`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E90BEB44-6898-4ECF-B706-59AC067ECC5C/77/da774742/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/394C8FAE-4BA1-4DD2-A259-BD441D5BEF25/28/9d84f386/Stack`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/75/e86382a2/String.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/c2/a7d62606/Console.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/c4/2bd170c3/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3DD31A3-D437-4D7D-9525-D887480DAE95/a8/dd4f9cf7/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E81851A0-DC73-4A79-AFA9-F5B7273162BE/57/b1ad68db/String.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/MyAtoi/Program.cs" />
-        <option value="$PROJECT_DIR$/isMatch/Program.cs" />
-        <option value="$PROJECT_DIR$/LongestValidParentheses/Program.cs" />
-        <option value="$PROJECT_DIR$/MaxArea/Program.cs" />
-        <option value="$PROJECT_DIR$/IntToRoman/Program.cs" />
-        <option value="$PROJECT_DIR$/RomanToInt/Program.cs" />
-        <option value="$PROJECT_DIR$/LongestCommonPrefix/Program.cs" />
-        <option value="$PROJECT_DIR$/ThreeSum/Program.cs" />
-        <option value="$PROJECT_DIR$/ThreeSumClosest/Program.cs" />
-        <option value="$PROJECT_DIR$/LetterCombinations/Program.cs" />
-        <option value="$PROJECT_DIR$/FourSum/Program.cs" />
-        <option value="$PROJECT_DIR$/addTwoNumbers/Program.cs" />
-        <option value="$PROJECT_DIR$/RemoveNthFromEnd/Program.cs" />
-        <option value="$PROJECT_DIR$/IsValid/Program.cs" />
-        <option value="$PROJECT_DIR$/IsUgly/Program.cs" />
-        <option value="$PROJECT_DIR$/NthUglyNumber/Program.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/LargestNumber/Program.cs" />
+      <option value="$PROJECT_DIR$/MinDiffInBST/Program.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1pNe8xnT25WPwGjkBCdwYT08Ftb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -108,14 +90,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.14072229" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.12017435" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.14090288" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.NthUglyNumber">
+  <component name="RunManager" selected=".NET Project.LargestNumber">
     <configuration name="Convert" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -224,6 +206,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="LargestNumber" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LargestNumber/LargestNumber.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="LengthOfLongestSubstring" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -323,6 +323,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/MaxArea/MaxArea.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="MinDiffInBST" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MinDiffInBST/MinDiffInBST.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -551,7 +569,13 @@
       <workItem from="1616999989157" duration="10013000" />
       <workItem from="1617161828787" duration="14000" />
       <workItem from="1617260664608" duration="5449000" />
+<<<<<<< HEAD
+      <workItem from="1618056058568" duration="15114000" />
+=======
       <workItem from="1618056058568" duration="13601000" />
+      <workItem from="1618238223708" duration="2842000" />
+      <workItem from="1618296908795" duration="1237000" />
+>>>>>>> f283f3de52a9db5a88c39c25d9932eed09f93870
     </task>
     <servers />
   </component>
@@ -575,31 +599,32 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1618122894970">
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1618123699762">
       <screen x="1680" y="-36" width="1920" height="1040" />
     </state>
     <state width="1048" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615808419957" />
     <state width="1637" height="270" key="GridCell.Tab.0.bottom/1680.-36.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1618061690272" />
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom/1680.-36.1920.1040/0.0.1680.1010@1680.-36.1920.1040" timestamp="1618122894970" />
-    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1618122894970">
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom/1680.-36.1920.1040/0.0.1680.1010@1680.-36.1920.1040" timestamp="1618123699762" />
+    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1618123699762">
       <screen x="1680" y="-36" width="1920" height="1040" />
     </state>
     <state width="1048" height="256" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615808419957" />
     <state width="1637" height="270" key="GridCell.Tab.0.center/1680.-36.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1618061690272" />
-    <state width="1877" height="223" key="GridCell.Tab.0.center/1680.-36.1920.1040/0.0.1680.1010@1680.-36.1920.1040" timestamp="1618122894970" />
-    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1618122894970">
+    <state width="1877" height="223" key="GridCell.Tab.0.center/1680.-36.1920.1040/0.0.1680.1010@1680.-36.1920.1040" timestamp="1618123699762" />
+    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1618123699762">
       <screen x="1680" y="-36" width="1920" height="1040" />
     </state>
     <state width="1048" height="256" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615808419957" />
     <state width="1637" height="270" key="GridCell.Tab.0.left/1680.-36.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1618061690272" />
-    <state width="1877" height="223" key="GridCell.Tab.0.left/1680.-36.1920.1040/0.0.1680.1010@1680.-36.1920.1040" timestamp="1618122894970" />
-    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1618122894970">
+    <state width="1877" height="223" key="GridCell.Tab.0.left/1680.-36.1920.1040/0.0.1680.1010@1680.-36.1920.1040" timestamp="1618123699762" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1618123699762">
       <screen x="1680" y="-36" width="1920" height="1040" />
     </state>
     <state width="1048" height="256" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615808419957" />
     <state width="1637" height="270" key="GridCell.Tab.0.right/1680.-36.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1618061690272" />
-    <state width="1877" height="223" key="GridCell.Tab.0.right/1680.-36.1920.1040/0.0.1680.1010@1680.-36.1920.1040" timestamp="1618122894970" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right/1680.-36.1920.1040/0.0.1680.1010@1680.-36.1920.1040" timestamp="1618123699762" />
     <state width="1637" height="308" key="GridCell.Tab.1.bottom" timestamp="1618061690075">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -703,33 +728,21 @@
     <state x="436" y="257" key="Rider.ProjectTemplateDialog.Size/1680.-36.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1618059946083" />
     <state x="2178" y="229" key="Rider.ProjectTemplateDialog.Size/1680.-36.1920.1040/0.0.1680.1010@1680.-36.1920.1040" timestamp="1618122680276" />
   </component>
+=======
+>>>>>>> f283f3de52a9db5a88c39c25d9932eed09f93870
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/FourSum/Program.cs</url>
           <line>13</line>
-          <properties documentPath="C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\Program.cs" initialLine="13">
-            <startOffsets>
-              <option value="305" />
-            </startOffsets>
-            <endOffsets>
-              <option value="339" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\FourSum\Program.cs" initialLine="13" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/addTwoNumbers/Program.cs</url>
           <line>31</line>
-          <properties documentPath="C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\Program.cs" initialLine="31">
-            <startOffsets>
-              <option value="967" />
-            </startOffsets>
-            <endOffsets>
-              <option value="984" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="C:\Users\tpl\Desktop\新建文件夹\LeeCode\TwoSum\addTwoNumbers\Program.cs" initialLine="31" />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>

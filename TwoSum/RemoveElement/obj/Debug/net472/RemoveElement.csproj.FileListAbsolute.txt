@@ -1,0 +1,9 @@
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\RemoveElement\bin\Debug\net472\RemoveElement.exe.config
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\RemoveElement\bin\Debug\net472\RemoveElement.exe
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\RemoveElement\bin\Debug\net472\RemoveElement.pdb
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\RemoveElement\obj\Debug\net472\RemoveElement.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\RemoveElement\obj\Debug\net472\RemoveElement.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\RemoveElement\obj\Debug\net472\RemoveElement.AssemblyInfo.cs
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\RemoveElement\obj\Debug\net472\RemoveElement.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\RemoveElement\obj\Debug\net472\RemoveElement.exe
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\RemoveElement\obj\Debug\net472\RemoveElement.pdb

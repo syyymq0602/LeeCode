@@ -16,3 +16,12 @@ C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.Assembly
 C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.csproj.CoreCompileInputs.cache
 C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.exe
 C:\Users\tpl\Desktop\LC\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.pdb
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\Convert\bin\Debug\net472\Convert.exe.config
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\Convert\bin\Debug\net472\Convert.exe
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\Convert\bin\Debug\net472\Convert.pdb
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.AssemblyInfoInputs.cache
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.AssemblyInfo.cs
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.exe
+C:\Users\tpl\Desktop\aaa\LeeCode\TwoSum\Convert\obj\Debug\net472\Convert.pdb

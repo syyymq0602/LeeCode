@@ -10,6 +10,8 @@ namespace FourSum
         {
             int[] nums = new int[]{1,0,-1,0,-2,2};
             int target = 0;
+            string s = "ss";
+            s.ToCharArray();
             var result = FourSum(nums, target);
             Console.WriteLine("Hello World!");
         }

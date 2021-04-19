@@ -58,6 +58,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostorderTraversal", "Posto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{1FD8B97C-60C2-4A90-A233-167659060D46}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linked_list ", "Linked_list ", "{AB6A96B0-2AAA-4D7E-9F87-9FBA10530630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLists", "MergeTwoLists\MergeTwoLists.csproj", "{1E076FFC-3D87-47CB-A2B6-52FE3A4A8A53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +184,12 @@ Global
 		{1FD8B97C-60C2-4A90-A233-167659060D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FD8B97C-60C2-4A90-A233-167659060D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FD8B97C-60C2-4A90-A233-167659060D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E076FFC-3D87-47CB-A2B6-52FE3A4A8A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E076FFC-3D87-47CB-A2B6-52FE3A4A8A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E076FFC-3D87-47CB-A2B6-52FE3A4A8A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E076FFC-3D87-47CB-A2B6-52FE3A4A8A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E076FFC-3D87-47CB-A2B6-52FE3A4A8A53} = {AB6A96B0-2AAA-4D7E-9F87-9FBA10530630}
 	EndGlobalSection
 EndGlobal
